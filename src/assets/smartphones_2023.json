@@ -1,0 +1,52 @@
+[
+  {
+    "Brand": "Xiaomi",
+    "Model": "Redmi Note 11",
+    "Price Range (INR)": 12999
+  },
+  {
+    "Brand": "Realme",
+    "Model": "Realme 9",
+    "Price Range (INR)": 14999
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy M32",
+    "Price Range (INR)": 15999
+  },
+  {
+    "Brand": "Motorola",
+    "Model": "Moto G12",
+    "Price Range (INR)": 16499
+  },
+  {
+    "Brand": "Nokia",
+    "Model": "Nokia X30",
+    "Price Range (INR)": 17499
+  },
+  {
+    "Brand": "Oppo",
+    "Model": "Oppo A95",
+    "Price Range (INR)": 18999
+  },
+  {
+    "Brand": "Vivo",
+    "Model": "Vivo Y73s",
+    "Price Range (INR)": 19499
+  },
+  {
+    "Brand": "OnePlus",
+    "Model": "OnePlus Nord N20",
+    "Price Range (INR)": 19999
+  },
+  {
+    "Brand": "Google",
+    "Model": "Pixel 5a",
+    "Price Range (INR)": 19999
+  },
+  {
+    "Brand": "Asus",
+    "Model": "Asus ZenFone 8",
+    "Price Range (INR)": 20000
+  }
+]
