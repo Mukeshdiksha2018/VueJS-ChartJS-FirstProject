@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Smartphones under 2023 {{barName}}</h1>
+    <h1>Smartphones under RS.20000 in 2023 {{barName}}</h1>
     <Chart :type="bar" :data="barData" />
   </div>
 
